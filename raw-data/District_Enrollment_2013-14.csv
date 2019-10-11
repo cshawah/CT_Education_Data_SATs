@@ -1,0 +1,199 @@
+Institution Code,District Code,District Name,Total,Male,Female,American Indian,Asian American,Black,White,Hispanic,Pacific Islander,Two or More races
+11,2,Ansonia School District,2316,1226,1090,14,28,445,1080,691,31,27
+11,3,Ashford School District,422,217,205,0,9,10,363,27,0,13
+11,4,Avon School District,3369,1671,1698,6,369,129,2561,195,,106
+11,5,Barkhamsted School District,306,171,135,0,,,296,,0,
+11,7,Berlin School District,2949,1582,1367,,78,67,2459,252,,89
+11,8,Bethany School District,436,237,199,,43,11,369,10,0,
+11,9,Bethel School District,2989,1557,1432,0,193,58,2252,412,,72
+11,11,Bloomfield School District,2087,1058,1029,,27,1504,224,234,,94
+11,12,Bolton School District,862,432,430,0,23,48,741,36,0,14
+11,13,Bozrah School District,243,124,119,,,15,204,18,0,
+11,14,Branford School District,3219,1658,1561,6,249,100,2519,275,0,70
+11,15,Bridgeport School District,20710,10797,9913,75,577,7774,2091,10081,21,91
+11,17,Bristol School District,8193,4243,3950,13,267,544,5397,1733,,238
+11,18,Brookfield School District,2762,1380,1382,9,164,41,2385,157,,
+11,19,Brooklyn School District,919,484,435,,19,14,795,60,,28
+11,21,Canaan School District,77,36,41,0,0,0,67,9,0,
+11,22,Canterbury School District,458,254,204,0,0,,413,21,0,20
+11,23,Canton School District,1688,853,835,,45,76,1453,93,0,18
+11,24,Chaplin School District,183,92,91,,,,158,12,0,9
+11,25,Cheshire School District,4593,2341,2252,11,432,128,3821,178,0,23
+11,26,Chester School District,228,101,127,0,,,209,,0,9
+11,27,Clinton School District,1953,997,956,7,50,14,1642,202,,36
+11,28,Colchester School District,2727,1366,1361,19,57,67,2398,138,,47
+11,29,Colebrook School District,98,53,45,0,0,0,86,,0,9
+11,30,Columbia School District,467,237,230,0,,6,429,24,0,
+11,31,Cornwall School District,105,63,42,0,,,88,9,0,6
+11,32,Coventry School District,1684,839,845,,16,16,1513,80,0,57
+11,33,Cromwell School District,1946,1006,940,,120,167,1483,153,,19
+11,34,Danbury School District,10762,5518,5244,11,762,833,4309,4580,6,261
+11,35,Darien School District,4889,2519,2370,8,181,25,4474,176,0,25
+11,36,Deep River School District,330,163,167,0,,,293,27,0,
+11,37,Derby School District,1499,752,747,0,33,236,811,368,7,44
+11,39,Eastford School District,150,76,74,,,,141,,0,
+11,40,East Granby School District,868,456,412,,42,66,679,54,0,23
+11,41,East Haddam School District,1183,599,584,,12,7,1109,34,0,17
+11,42,East Hampton School District,1869,939,930,0,31,15,1719,75,,28
+11,43,East Hartford School District,7129,3687,3442,22,361,2452,1201,3029,,62
+11,44,East Haven School District,3055,1587,1468,6,136,94,2120,652,,45
+11,45,East Lyme School District,2863,1437,1426,8,271,59,2346,129,,48
+11,46,Easton School District,960,512,448,,53,13,847,38,0,
+11,47,East Windsor School District,1198,610,588,,61,126,793,157,0,57
+11,48,Ellington School District,2657,1348,1309,,149,108,2204,113,0,79
+11,49,Enfield School District,5192,2682,2510,19,138,290,3943,559,8,235
+11,50,Essex School District,508,271,237,0,15,6,447,22,,17
+11,51,Fairfield School District,10248,5216,5032,14,576,242,8241,887,,283
+11,52,Farmington School District,4001,2085,1916,9,648,206,2882,250,,
+11,53,Franklin School District,181,96,85,,,0,160,12,,
+11,54,Glastonbury School District,6389,3149,3240,7,609,183,4899,456,,231
+11,56,Granby School District,2039,1038,1001,6,30,86,1784,76,0,57
+11,57,Greenwich School District,8760,4493,4267,9,711,267,5821,1659,,289
+11,58,Griswold School District,1965,1013,952,23,31,58,1644,107,,101
+11,59,Groton School District,4657,2390,2267,45,296,475,2710,832,11,288
+11,60,Guilford School District,3510,1800,1710,,131,38,3045,205,,87
+11,62,Hamden School District,5745,3002,2743,7,466,1686,2388,968,,227
+11,63,Hampton School District,112,66,46,0,,0,100,10,0,
+11,64,Hartford School District,21250,10945,10305,67,672,6626,2627,10529,34,695
+11,65,Hartland School District,204,110,94,,,,192,,0,
+11,67,Hebron School District,867,449,418,0,14,,796,35,0,17
+11,68,Kent School District,272,153,119,0,,0,233,17,0,17
+11,69,Killingly School District,2641,1322,1319,23,66,58,2210,150,0,134
+11,71,Lebanon School District,1146,578,568,30,14,10,1040,46,,
+11,72,Ledyard School District,2550,1270,1280,110,102,155,1831,219,45,88
+11,73,Lisbon School District,396,212,184,,,,334,24,,27
+11,74,Litchfield School District,984,497,487,0,20,6,901,42,8,7
+11,76,Madison School District,3278,1701,1577,7,115,22,2960,87,,84
+11,77,Manchester School District,6210,3199,3011,23,507,1364,2505,1537,,271
+11,78,Mansfield School District,1245,635,610,0,133,23,923,114,,51
+11,79,Marlborough School District,605,316,289,0,,,543,33,0,22
+11,80,Meriden School District,8099,4211,3888,36,245,936,2706,3982,25,169
+11,83,Middletown School District,4782,2439,2343,13,195,988,2568,780,,233
+11,84,Milford School District,6401,3329,3072,8,561,315,5118,378,,16
+11,85,Monroe School District,3367,1741,1626,14,126,45,2881,227,0,74
+11,86,Montville School District,2403,1222,1181,43,218,67,1644,205,7,219
+11,88,Naugatuck School District,4344,2313,2031,6,135,314,2845,845,6,193
+11,89,New Britain School District,10038,5275,4763,12,246,1353,2104,6091,7,225
+11,90,New Canaan School District,4172,2120,2052,19,214,49,3676,147,,62
+11,91,New Fairfield School District,2726,1439,1287,7,51,34,2402,192,0,40
+11,92,New Hartford School District,544,262,282,0,9,,504,19,0,11
+11,93,New Haven School District,21304,10824,10480,32,453,9131,3221,8371,10,86
+11,94,Newington School District,4202,2119,2083,6,385,232,2701,701,,175
+11,95,New London School District,3068,1651,1417,19,36,728,549,1519,6,211
+11,96,New Milford School District,4484,2320,2164,,161,93,3642,478,0,105
+11,97,Newtown School District,4878,2508,2370,,186,59,4328,233,0,71
+11,98,Norfolk School District,116,61,55,0,0,0,110,,0,
+11,99,North Branford School District,2007,1027,980,6,47,49,1819,79,0,7
+11,100,North Canaan School District,295,146,149,0,,,246,34,0,10
+11,101,North Haven School District,3362,1721,1641,7,236,128,2709,200,,81
+11,102,North Stonington School Distri,750,398,352,8,17,19,672,24,,9
+11,103,Norwalk School District,11091,5698,5393,11,534,2144,3878,4350,7,167
+11,104,Norwich School District,3740,1921,1819,30,266,677,1332,1047,10,378
+11,106,Old Saybrook School District,1434,703,731,,71,24,1214,92,,30
+11,107,Orange School District,1189,605,584,0,142,23,944,59,0,21
+11,108,Oxford School District,2044,1020,1024,6,41,23,1821,110,,39
+11,109,Plainfield School District,2451,1226,1225,27,67,103,2116,130,,
+11,110,Plainville School District,2312,1183,1129,,55,110,1724,328,,90
+11,111,Plymouth School District,1564,833,731,,22,27,1438,67,0,
+11,112,Pomfret School District,424,217,207,,13,7,388,10,0,
+11,113,Portland School District,1372,686,686,,21,44,1147,110,,48
+11,114,Preston School District,422,203,219,9,11,7,375,6,,11
+11,116,Putnam School District,1248,656,592,,14,12,1075,85,,56
+11,117,Redding School District,1056,542,514,,31,7,904,46,,65
+11,118,Ridgefield School District,5266,2692,2574,,296,32,4558,278,,95
+11,119,Rocky Hill School District,2418,1207,1211,6,429,70,1695,191,0,27
+11,121,Salem School District,430,223,207,,19,12,372,15,,8
+11,122,Salisbury School District,279,139,140,0,7,,221,19,0,27
+11,123,Scotland School District,133,61,72,0,0,,125,,0,
+11,124,Seymour School District,2296,1176,1120,,84,98,1855,232,0,22
+11,125,Sharon School District,177,94,83,0,,,164,7,0,
+11,126,Shelton School District,4958,2538,2420,9,328,193,3902,470,,53
+11,127,Sherman School District,372,192,180,0,,0,347,6,0,16
+11,128,Simsbury School District,4333,2245,2088,0,246,225,3577,225,,59
+11,129,Somers School District,1506,764,742,,22,32,1381,45,,23
+11,131,Southington School District,6666,3369,3297,11,216,129,5714,416,,177
+11,132,South Windsor School District,4240,2188,2052,,556,252,2979,300,11,139
+11,133,Sprague School District,360,189,171,,,,266,53,0,32
+11,134,Stafford School District,1627,812,815,9,21,18,1468,77,,32
+11,135,Stamford School District,15811,8135,7676,9,1340,3041,5338,5898,,180
+11,136,Sterling School District,479,260,219,,,,435,16,0,17
+11,137,Stonington School District,2302,1185,1117,,65,52,2073,76,,32
+11,138,Stratford School District,7143,3658,3485,17,222,1508,3266,1929,,198
+11,139,Suffield School District,2407,1173,1234,,65,86,2118,115,0,20
+11,140,Thomaston School District,938,471,467,,10,7,887,22,,8
+11,141,Thompson School District,1068,540,528,6,,,984,40,0,32
+11,142,Tolland School District,2706,1377,1329,,94,40,2488,75,,
+11,143,Torrington School District,4260,2258,2002,10,145,180,2928,859,7,131
+11,144,Trumbull School District,6798,3416,3382,14,517,306,5366,570,,24
+11,145,Union School District,78,33,45,0,0,,76,,0,0
+11,146,Vernon School District,3321,1696,1625,8,169,426,2225,421,0,72
+11,147,Voluntown School District,303,143,160,,,7,266,12,,14
+11,148,Wallingford School District,6067,2995,3072,13,303,146,4715,860,,29
+11,151,Waterbury School District,18611,9523,9088,82,287,4452,3958,9203,22,607
+11,152,Waterford School District,2545,1304,1241,21,137,102,2003,219,0,63
+11,153,Watertown School District,2917,1506,1411,6,66,64,2499,209,0,73
+11,154,Westbrook School District,832,437,395,,15,,722,77,0,14
+11,155,West Hartford School District,9844,5035,4809,23,1114,822,6036,1545,,301
+11,156,West Haven School District,5950,3048,2902,9,216,1329,2237,1931,6,222
+11,157,Weston School District,2408,1279,1129,0,91,46,2145,65,,59
+11,158,Westport School District,5758,2958,2800,,310,96,4979,238,0,131
+11,159,Wethersfield School District,3697,1853,1844,10,170,149,2753,546,6,63
+11,160,Willington School District,457,242,215,0,7,,414,17,0,14
+11,161,Wilton School District,4276,2158,2118,,333,52,3698,123,,65
+11,162,Winchester School District,626,340,286,,,14,575,26,,
+11,163,Windham School District,3246,1711,1535,17,29,143,836,2149,0,72
+11,164,Windsor School District,3242,1672,1570,,141,1484,953,515,,142
+11,165,Windsor Locks School District,1666,872,794,,138,145,1125,178,,73
+11,166,Wolcott School District,2483,1274,1209,,45,51,2141,166,0,79
+11,167,Woodbridge School District,768,385,383,,108,28,570,38,6,15
+11,169,Woodstock School District,898,442,456,0,8,,828,27,0,30
+12,201,Regional School District 01,428,195,233,,,6,378,23,0,15
+12,204,Regional School District 04,978,478,500,,14,15,876,57,0,14
+12,205,Regional School District 05,2330,1194,1136,7,264,70,1868,92,,28
+12,206,Regional School District 06,995,481,514,,6,10,926,29,,17
+12,207,Regional School District 07,1123,542,581,,10,6,1081,22,0,
+12,208,Regional School District 08,1736,921,815,,24,8,1654,38,0,9
+12,209,Regional School District 09,1065,528,537,6,32,9,955,45,0,18
+12,210,Regional School District 10,2563,1337,1226,,57,12,2400,74,,14
+12,211,Regional School District 11,287,150,137,,,8,245,24,0,6
+12,212,Regional School District 12,796,394,402,0,10,9,751,16,6,
+12,213,Regional School District 13,1860,972,888,0,27,10,1693,71,0,59
+12,214,Regional School District 14,1880,880,1000,,37,10,1777,48,0,
+12,215,Regional School District 15,3967,2052,1915,8,205,59,3490,170,,32
+12,216,Regional School District 16,2338,1154,1184,,33,55,2132,112,0,
+12,217,Regional School District 17,2264,1174,1090,,52,38,2124,11,0,37
+12,218,Regional School District 18,1406,720,686,,47,10,1270,52,0,26
+12,219,Regional School District 19,1194,586,608,,60,23,1028,73,,6
+13,261,Jumoke Academy District,704,320,384,0,0,683,0,19,0,
+13,263,Odyssey Community School Distr,325,172,153,,33,72,155,54,0,10
+13,264,Integrated Day Charter School,330,167,163,,31,28,200,42,0,28
+13,265,Interdistrict School for Arts,246,107,139,,,39,72,117,0,10
+13,268,Common Ground High School Dist,180,98,82,0,,58,39,75,0,7
+13,269,The Bridge Academy District,277,135,142,,,153,,102,,11
+13,270,Side By Side Charter School Di,235,122,113,0,18,62,43,96,,14
+13,272,Explorations District,83,42,41,,,,76,,0,
+13,278,Trailblazers Academy District,162,89,73,0,,89,6,63,0,
+13,279,Amistad Academy District,937,468,469,,0,561,16,340,0,17
+13,280,New Beginnings Inc. Family Aca,402,200,202,0,0,284,8,101,,8
+13,282,Stamford Academy District,149,81,68,0,0,91,,53,0,
+13,283,Park City Prep Charter School,260,126,134,0,,140,13,103,0,
+13,285,Bridgeport Achievement First D,835,415,420,,7,470,11,340,0,6
+13,286,Highville Charter School Distr,361,180,181,0,,340,,12,0,
+13,288,Achievement First Hartford Aca,871,456,415,,,723,,134,,10
+13,289,Elm City College Preparatory S,624,278,346,,,472,7,136,0,
+13,290,Brass City Charter School Dist,115,51,64,0,,35,20,47,0,12
+14,241,Capitol Region Education Counc,7179,3642,3537,22,439,2044,2349,2080,,241
+14,242,Education Connection,228,122,106,,6,9,161,50,0,0
+14,243,Cooperative Educational Servic,822,492,330,0,33,242,283,243,,20
+14,244,Area Cooperative Educational S,1933,1137,796,6,79,562,668,567,0,51
+14,245,Learn,2137,1046,1091,12,66,280,853,660,,261
+14,253,Eastern Connecticut Regional E,367,171,196,,,19,272,59,0,11
+15,336,Unified School District #1,538,516,22,0,0,280,52,192,0,14
+15,337,Department of Mental Health an,,,,0,0,,,,0,0
+15,347,Unified School District #2,197,159,38,,,87,47,56,,
+16,900,Connecticut Technical High Sch,10699,6514,4185,51,96,1375,5414,3499,13,251
+22,901,Norwich Free Academy District,2325,1075,1250,43,187,326,1345,366,18,40
+22,902,The Gilbert School District,537,315,222,,34,14,398,68,0,22
+22,903,Woodstock Academy District,1033,514,519,,102,,881,28,0,15
+,,State Total,545614,280981,264633,1548,25436,70626,319088,115546,511,12859
+11,1,Andover School District,298,157,141,0,,,274,11,0,6
